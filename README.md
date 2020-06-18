@@ -1,2 +1,2 @@
 # script-test-amazon
-The test examines the test cases of buying products on the amazon website.
+The test checks the addition of products to a shopping cart at the login site at amazon.
